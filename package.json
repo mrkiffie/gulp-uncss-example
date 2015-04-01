@@ -1,0 +1,29 @@
+{
+  "name": "gulp-uncss-example",
+  "version": "0.1.0",
+  "private": true,
+  "author": "mrkiffie <mriffie@gmail.com>",
+  "license": "MIT",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp uncss",
+    "test": "No Tests Yet :("
+  },
+  "description": "A simple gulp task for uncss",
+  "engine": "node 0.10.33",
+  "devDependencies": {
+    "gulp": "3.8.11",
+    "gulp-csscomb": "3.0.3",
+    "gulp-load-plugins": "0.9.0",
+    "gulp-plumber": "1.0.0",
+    "gulp-uncss": "1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrkiffie/gulp-uncss-example/"
+  },
+  "keywords": [
+    "gulp-uncss",
+    "example"
+  ]
+}
